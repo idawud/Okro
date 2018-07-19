@@ -118,4 +118,4 @@ def download_csv_generate():
 
 
 if __name__ == "__main__":
-    app.run(debug =True, host='127.0.0.2')
+    app.run(debug =False, host='0.0.0.0')
