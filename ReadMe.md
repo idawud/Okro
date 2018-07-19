@@ -47,8 +47,8 @@ princealfredgyan@gmail.com
 >**Ismail Dawud Ibrahim**
 ismaildawud96@gmail.com
 
->**Franklina Wae Luther**
-franklinluther@gmail.com
+>**Franklin Wae Luther**
+franklinluther3@gmail.com
 
 >**Francis Billa**
 francis.billa.fb@gmail.com
