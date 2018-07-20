@@ -23,6 +23,7 @@ import freqModules as fq
 import generator as gen
 import benford as bf
 
+
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = fq.UPLOAD_FOLDER
 
@@ -118,4 +119,4 @@ def download_csv_generate():
 
 
 if __name__ == "__main__":
-    app.run(debug =False, host='0.0.0.0')
+    app.run(debug =False)
