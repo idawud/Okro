@@ -27,6 +27,9 @@ This is a simple graph showing numbers from 1 to 9 and their respective probabil
 
 # Getting Started
 ---
+- Access the online app at: https://okro.herokuapp.com/
+- Or
+-Clone this repository: git clone https://github.com/idawud/Okro/
 - Launch Server using the python IDE preferrably **Pycharm**
 - run app.py file
 >through your terminal or command prompt
