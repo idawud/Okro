@@ -17,6 +17,7 @@
 ###########################################################################
 
 import math
+
 def lead_digit_conter(x,leadData):
     ''' increase the count of leadind digit '''
     if x != None:

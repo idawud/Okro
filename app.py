@@ -16,8 +16,7 @@
 ###########################################################################
 
 import os
-from flask import Flask, render_template, request, redirect
-from flask import url_for, flash, send_from_directory
+from flask import Flask, render_template, request, redirect, url_for, flash, send_from_directory
 from werkzeug import secure_filename
 import freqModules as fq
 import generator as gen
