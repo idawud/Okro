@@ -44,11 +44,11 @@ This is a simple graph showing numbers from 1 to 9 and their respective probabil
 ---
 # Authors
 #
->**Prince Alfred Gyan**
-princealfredgyan@gmail.com
-
 >**Ismail Dawud Ibrahim**
 ismaildawud96@gmail.com
+
+>**Prince Alfred Gyan**
+princealfredgyan@gmail.com
 
 >**Franklin Wae Luther**
 franklinluther3@gmail.com
